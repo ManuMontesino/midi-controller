@@ -1,0 +1,10 @@
+(version 1)
+(rule "IS31 fine pitch"
+  (condition "A.memberOfFootprint('U10') || B.memberOfFootprint('U10')")
+  (constraint clearance (min 0.15mm)))
+(rule "RP2040 fine pitch"
+  (condition "A.memberOfFootprint('U4') || B.memberOfFootprint('U4')")
+  (constraint clearance (min 0.15mm)))
+(rule "RP2040 +1V1 vs R8"
+  (condition "(A.memberOfFootprint('R8') && B.NetName == '+1V1') || (B.memberOfFootprint('R8') && A.NetName == '+1V1')")
+  (constraint clearance (min 0.15mm)))

@@ -1,0 +1,21 @@
+# KiCad
+*-backups/
+*.kicad_prl
+*.lck
+fp-info-cache
+_autosave-*
+*.bak
+\#auto_saved_files#
+
+# Firmware
+firmware/build/
+
+# Web
+configurator/node_modules/
+configurator/dist/
+
+# macOS
+.DS_Store
+
+# Herramientas locales
+.claude/

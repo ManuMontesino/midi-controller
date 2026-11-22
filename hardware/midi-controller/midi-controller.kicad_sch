@@ -1,0 +1,765 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "c5a9c6c1-6000-4235-b5a3-d184906b3086")
+	(paper "A4")
+	(title_block
+		(title "Controlador USB-MIDI")
+		(rev "v1")
+		(company "midi-controller")
+		(comment 1 "Hoja raíz: bloques del sistema")
+	)
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 175.26 82.55) (xy 204.47 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19d5c130-1f8c-4297-a38a-771e2775aa54")
+	)
+	(wire
+		(pts
+			(xy 175.26 49.53) (xy 204.47 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "416e08fd-10af-4601-98fb-2eda6b46b61b")
+	)
+	(wire
+		(pts
+			(xy 85.09 63.5) (xy 115.57 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b531cd7-96fa-40ab-8320-b38d90cc3434")
+	)
+	(wire
+		(pts
+			(xy 175.26 87.63) (xy 204.47 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b92dabe9-deed-472a-96a4-feee68c32a00")
+	)
+	(wire
+		(pts
+			(xy 175.26 44.45) (xy 204.47 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3b73cc5-7707-4a24-9d03-88a7c47d60d3")
+	)
+	(wire
+		(pts
+			(xy 175.26 46.99) (xy 204.47 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc6d1e2d-0186-4889-89ea-3cd1c28f211a")
+	)
+	(wire
+		(pts
+			(xy 85.09 44.45) (xy 115.57 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc99abc9-9767-4053-9830-aafbddde50dc")
+	)
+	(wire
+		(pts
+			(xy 175.26 85.09) (xy 204.47 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9663849-1d1e-474d-8887-671f448396ff")
+	)
+	(wire
+		(pts
+			(xy 175.26 107.95) (xy 204.47 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5961e6e4-9af6-4b90-b17b-a00eb07854c6")
+	)
+	(wire
+		(pts
+			(xy 175.26 110.49) (xy 204.47 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8152bad7-ab60-4588-96a7-9e86fdefa265")
+	)
+	(wire
+		(pts
+			(xy 175.26 113.03) (xy 204.47 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae2a3cca-a42e-445a-b3d2-cb446f60fc1a")
+	)
+	(wire
+		(pts
+			(xy 175.26 115.57) (xy 204.47 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7950b4c9-4835-427d-ab11-601ae2438bcc")
+	)
+	(wire
+		(pts
+			(xy 175.26 118.11) (xy 204.47 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c933d98-9635-4cf4-80bd-137b9f56550e")
+	)
+	(wire
+		(pts
+			(xy 175.26 120.65) (xy 204.47 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7cadb95-9fb8-438e-839e-ab87ce647a2d")
+	)
+	(wire
+		(pts
+			(xy 175.26 123.19) (xy 204.47 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3cc05502-8803-4890-b156-26ed09e9cc69")
+	)
+	(wire
+		(pts
+			(xy 175.26 125.73) (xy 204.47 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "158557d5-813a-4237-a70e-bfcaa0f66d40")
+	)
+	(wire
+		(pts
+			(xy 175.26 128.27) (xy 204.47 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d44c220-0359-46b4-a371-0b6da29d3fe3")
+	)
+	(wire
+		(pts
+			(xy 175.26 130.81) (xy 204.47 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2980e3c-8d33-4b6c-a993-d16cd9754de0")
+	)
+	(sheet
+		(at 25.4 39.37)
+		(size 59.69 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "218cd0b7-7e00-4fa1-af88-cbdf5bb0d351")
+		(property "Sheetname" "Alimentación y USB"
+			(at 25.4 38.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_usb.kicad_sch"
+			(at 25.4 69.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USB_D+" bidirectional
+			(at 85.09 44.45 0)
+			(uuid "e4bce98d-3473-49ba-a71a-056db9543e93")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB_D-" bidirectional
+			(at 85.09 63.5 0)
+			(uuid "84615d72-d112-4991-869f-e2d55d25a48d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "midi-controller"
+				(path "/c5a9c6c1-6000-4235-b5a3-d184906b3086"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 204.47 39.37)
+		(size 60.96 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8444ffe8-c428-45c6-a9da-20595789c57f")
+		(property "Sheetname" "Entradas"
+			(at 204.47 38.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "inputs.kicad_sch"
+			(at 204.47 70.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SR_DATA" output
+			(at 204.47 44.45 180)
+			(uuid "850f0758-19a1-4611-aea6-493916b502e2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SR_LATCH" input
+			(at 204.47 46.99 180)
+			(uuid "48cf9210-121d-4aa9-a684-e605863f42d4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SR_CLK" input
+			(at 204.47 49.53 180)
+			(uuid "3c0a0aa6-2ce6-4801-ad59-4a1fe2035971")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "midi-controller"
+				(path "/c5a9c6c1-6000-4235-b5a3-d184906b3086"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 204.47 77.47)
+		(size 60.96 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8815eb51-ec3e-4098-95c1-85fda4ba4e45")
+		(property "Sheetname" "LEDs"
+			(at 204.47 76.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "leds.kicad_sch"
+			(at 204.47 93.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "I2C_SDA" bidirectional
+			(at 204.47 82.55 180)
+			(uuid "98f06a1e-0f5f-4191-8278-30c3e6ee53c3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "I2C_SCL" input
+			(at 204.47 85.09 180)
+			(uuid "fdc01bd8-a1e6-49d7-b9e1-8a546eac367c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LED_SDB" input
+			(at 204.47 87.63 180)
+			(uuid "0f1e27b2-aceb-4233-a650-6c14468d4b59")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "midi-controller"
+				(path "/c5a9c6c1-6000-4235-b5a3-d184906b3086"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 204.47 102.87)
+		(size 60.96 33.02)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cbb84d0e-719a-4e2b-860a-582eee3ddb0c")
+		(property "Sheetname" "MIDI y expansión"
+			(at 204.47 102.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "midi_io.kicad_sch"
+			(at 204.47 136.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "MIDI_TX" input
+			(at 204.47 107.95 180)
+			(uuid "7b4763eb-fa6c-4a22-9f41-4a92b8cbc8f0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EXP_GP10" bidirectional
+			(at 204.47 110.49 180)
+			(uuid "19119964-5cdc-4050-83ca-c9559cb5076f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EXP_GP11" bidirectional
+			(at 204.47 113.03 180)
+			(uuid "6c08a4d1-9169-40c5-814a-c4994be05330")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EXP_GP12" bidirectional
+			(at 204.47 115.57 180)
+			(uuid "52f392ca-d902-4177-b79a-298371b0d635")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EXP_GP13" bidirectional
+			(at 204.47 118.11 180)
+			(uuid "74cc5fba-7cf2-4693-b2e2-f308b44cba41")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EXP_GP14" bidirectional
+			(at 204.47 120.65 180)
+			(uuid "9381a536-a502-4487-8f6a-827313d48a2e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EXP_GP15" bidirectional
+			(at 204.47 123.19 180)
+			(uuid "250e4000-9b2f-4a7d-95fa-14aa4d67e921")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EXP_ADC0" bidirectional
+			(at 204.47 125.73 180)
+			(uuid "3f59d647-a294-46b7-8d1d-d3a58f08b802")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EXP_ADC1" bidirectional
+			(at 204.47 128.27 180)
+			(uuid "72fef835-22cd-4d8a-a95f-2efb243eb268")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EXP_ADC2" bidirectional
+			(at 204.47 130.81 180)
+			(uuid "676545d7-1344-49d7-8019-135b1d9904bf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "midi-controller"
+				(path "/c5a9c6c1-6000-4235-b5a3-d184906b3086"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 115.57 39.37)
+		(size 59.69 96.52)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "dcfb3126-6671-4a88-9bba-974f72d07bb1")
+		(property "Sheetname" "MCU"
+			(at 115.57 38.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 115.57 136.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USB_D+" bidirectional
+			(at 115.57 44.45 180)
+			(uuid "52c45733-2f4f-4983-b377-cba512a76caa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_D-" bidirectional
+			(at 115.57 63.5 180)
+			(uuid "dfc7cefc-d04f-48dc-9079-8c4af329eb4d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SR_DATA" input
+			(at 175.26 44.45 0)
+			(uuid "94b071db-bef3-4171-8a7e-ecfb5eee13cb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SR_LATCH" output
+			(at 175.26 46.99 0)
+			(uuid "dab14975-1b83-45f8-b2b4-0ea43344a479")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SR_CLK" output
+			(at 175.26 49.53 0)
+			(uuid "92ea488f-135d-486f-a4fa-217d0e76123f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "I2C_SDA" bidirectional
+			(at 175.26 82.55 0)
+			(uuid "9c09e185-020f-46d7-9cfe-1f58fe162ca4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "I2C_SCL" output
+			(at 175.26 85.09 0)
+			(uuid "d3e6a298-7163-4254-a00b-d9264b6201ff")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "LED_SDB" output
+			(at 175.26 87.63 0)
+			(uuid "324b76c0-b9e3-4273-ac59-18aa3b92a35e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MIDI_TX" output
+			(at 175.26 107.95 0)
+			(uuid "d50c700d-a478-417b-85e7-a8cfb115b42a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "EXP_GP10" bidirectional
+			(at 175.26 110.49 0)
+			(uuid "2db07702-6c73-4cbd-9a1d-ce2bc5fb99ba")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "EXP_GP11" bidirectional
+			(at 175.26 113.03 0)
+			(uuid "21ea7955-e500-4706-b6cb-414dd955a9fd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "EXP_GP12" bidirectional
+			(at 175.26 115.57 0)
+			(uuid "577d1c91-439f-4ae6-8642-048c6a40f3cd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "EXP_GP13" bidirectional
+			(at 175.26 118.11 0)
+			(uuid "296ee846-c87a-42d7-834b-f3f069c97770")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "EXP_GP14" bidirectional
+			(at 175.26 120.65 0)
+			(uuid "4f632aa7-53bb-4293-818c-580218c67a53")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "EXP_GP15" bidirectional
+			(at 175.26 123.19 0)
+			(uuid "c0d7b9fe-7170-4472-9bf3-b43643470630")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "EXP_ADC0" bidirectional
+			(at 175.26 125.73 0)
+			(uuid "42d07852-2ac0-4e52-bffb-32219f33780d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "EXP_ADC1" bidirectional
+			(at 175.26 128.27 0)
+			(uuid "99edb419-9763-47e1-abc6-2fe79500d024")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "EXP_ADC2" bidirectional
+			(at 175.26 130.81 0)
+			(uuid "88e3effc-55e9-420d-91b5-cace4a76cd39")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "midi-controller"
+				(path "/c5a9c6c1-6000-4235-b5a3-d184906b3086"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
